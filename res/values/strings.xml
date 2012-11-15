@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">E-dukaわっさクイズ</string>
+    <string name="time_limit">制限時間</string>
+    <string name="menu_settings">Twitterのユーザー情報の消去</string>
+    <string name="title_activity_main">E-dukaわっさクイズ</string>
+    <string name="title">E-dukaわっさクイズ</string>
+    <string name="touch">Touch On Start</string>
+    <string name="genre">MenuSelect</string>
+    <string name="a_count"></string>
+    <string name="return1">タイトルへ戻る</string>
+    <string name="twitterBtn">スコアをTwitterでつぶやく</string>
+    <string name="maru">○</string>
+
+</resources>
